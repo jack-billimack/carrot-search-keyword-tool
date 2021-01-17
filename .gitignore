@@ -2,4 +2,4 @@ venv/*
 .vscode
 config.py
 *.log
-__pycache__
+**/__pycache__
